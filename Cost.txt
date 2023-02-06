@@ -1,5 +1,5 @@
 sugar 10
-water free
+water 0
 Milk 10
 Tea Powder 5
 Ginger 5
